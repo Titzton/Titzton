@@ -7,12 +7,12 @@
 <p align="center">Focus on the research of geographic information system integration machine learning.</p>
 <h2></h2><br>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titzton&layout=compact&theme=ayu-mirage&count_private=true&langs_count=9"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats" target="_blank">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=titzton&theme=ayu-mirage&show_icons=true&count_private=true&hide=contribs"/>
   </a>
 </p>
