@@ -1,4 +1,4 @@
-<h1 align="center">Here's Titzton <img src="hot_beverage.gif" width="35"><p></p></h1>
+<h1 align="center">Here's Titzton <img src="clinking_beer_mugs.gif" width="35"><p></p></h1>
 <h4 align="center"><sub><em>Life is like an MMORPG, but the system will not limit your possibilities.</em></sub>
 <h6 align="center"><strike><sup>これは、ゲームであっても遊びではない――</sup></strike></h6></h4>
 <br>
