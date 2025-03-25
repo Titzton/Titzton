@@ -5,6 +5,7 @@
 <p align="center">Grad student in Computer Science and Information Engineering at <a href="https://www.nutc.edu.tw">NUTC</a>.</p>
 <p align="center">Previously worked as a research assistant for several <a href="https://www.nstc.gov.tw">NSTC</a> subsidy project.</p>
 <p align="center">Focus on the research of <a href="https://wikipedia.org/wiki/Geographic_information_system">GIS</a> integration <a href="https://wikipedia.org/wiki/Machine_learning">ML</a>.</p>
+<!--
 <h2></h2><br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -16,9 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=titzton&theme=ayu-mirage&show_icons=true&count_private=true&hide=contribs"/>
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=titzton&&theme=ayu-mirage&layout=compact"/>
   </a>
-</p> -->
+</p>
 <br>
+-->
